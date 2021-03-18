@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-zip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a zip plugin",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -56,7 +56,7 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liudding/capacitor-plugin-zip"
+    "url": "https://github.com/liudding/capacitor-plugin-zip.git"
   },
   "bugs": {
     "url": "https://github.com/liudding/capacitor-plugin-zip/issues"
